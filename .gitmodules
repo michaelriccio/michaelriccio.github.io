@@ -1,0 +1,6 @@
+[submodule "surf-shop/Surf-Shop-Langing-Page"]
+	path = surf-shop/Surf-Shop-Langing-Page
+	url = https://github.com/michaelriccio/Surf-Shop-Langing-Page.git
+[submodule "todoing/ToDoing-React-App"]
+	path = todoing/ToDoing-React-App
+	url = https://github.com/michaelriccio/ToDoing-React-App.git
