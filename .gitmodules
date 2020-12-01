@@ -4,3 +4,12 @@
 [submodule "todoing/ToDoing-React-App"]
 	path = todoing/ToDoing-React-App
 	url = https://github.com/michaelriccio/ToDoing-React-App.git
+[submodule "Surf-Shop-Langing-Page"]
+	path = Surf-Shop-Langing-Page
+	url = https://github.com/michaelriccio/Surf-Shop-Langing-Page.git
+[submodule "ToDoing-React-App"]
+	path = ToDoing-React-App
+	url = https://github.com/michaelriccio/ToDoing-React-App.git
+[submodule "better-weather"]
+	path = better-weather
+	url = https://github.com/michaelriccio/better-weather.git
